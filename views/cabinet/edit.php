@@ -5,7 +5,7 @@
         <div class="row">
             <div class="col-sm-4 col-sm-offset-4 padding-right">
                 <?php if ($result) { ?>
-                    <p>Данные успешно отредактированы!</p>
+                    <p>Данные 111успешно отредактированы!</p>
                 <?php } else { ?>
                     <?php if (isset($errors) && is_array($errors)) { ?>
                         <ul>
